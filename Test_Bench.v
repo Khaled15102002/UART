@@ -24,7 +24,7 @@ initial begin
 end
 initial begin
     RST = 0;
-    TX_IN_P = 8'h54;
+    TX_IN_P = 8'h55;
     PAR_EN = 1;
     PAR_TYP = 0;
     TX_IN_V = 0;
@@ -68,4 +68,5 @@ initial begin
     $stop;
 
 end
+
 endmodule
