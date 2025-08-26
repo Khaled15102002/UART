@@ -27,6 +27,9 @@ RTL was written in Verilog, verified with waveform simulations in QuestaSim, and
 Below are some snippets from simulation and implementation:  
 ![Waveform](https://github.com/Khaled15102002/UART/blob/main/UART_Waveform.jpg)  
 ![Schematic](https://github.com/Khaled15102002/UART/blob/main/UART.jpg)  
+![FPGA_Device & Report Timing](https://github.com/Khaled15102002/UART/blob/main/FPGA_Device%20%26%20Report%20Timing.png)  
+![Implementation_schematic](https://github.com/Khaled15102002/UART/blob/main/Implementation_schematic.png) 
+![Report Utilization](https://github.com/Khaled15102002/UART/blob/main/Report%20Utilization.png)   
  
 
 
